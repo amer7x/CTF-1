@@ -1,0 +1,7 @@
+To Create The CTF Go To "/var/www/html/" And Create This Files To Put Your Flag
+You Can Copy This To Your Terminal Is Will Do It Automation
+mkdir GGHTeam && chmod 773 GGHTeam
+cd GGHTeam && mkdir GG && chmod 773 GG 
+mkdir flag && chmod 773 flag
+cd flag && nano flag.txt
+_______________________________________
