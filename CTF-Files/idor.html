@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>admin page</title>
+<style>
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('https://qsmart.qa/wp-content/uploads/2020/07/Qsmart-Home-page-low-size.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white; 
+}
+
+.container {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1, label {
+    color: white; 
+}
+
+button {
+    background-color: green; 
+    color: white; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen; 
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>صفحة فواتير الادمن</h1>
+    <form action="view_invoice.php" method="GET">
+        <label for="invoice_id">أدخل رقم الفاتورة:</label>
+        <input type="text" id="invoice_id" name="id">
+        <button type="submit">عرض الفاتورة</button>
+    </form>
+</div>
+
+</body>
+</html>
