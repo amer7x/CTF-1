@@ -4,12 +4,6 @@ About Me: t.me/amer7x
 Iam Amer Mahmoud Cyber 
 I worked as a graphic designer and successfully completed projects for 20 clients with excellent reviews on Freelancer.com. I then transitioned to my lifelong passion for ethical hacking, where I became a vulnerability researcher on HackerOne. I have reports in HackerOne for various companies and letters of appreciation from them. I created an ethical hacking course to explain the concepts and fundamentals of hacking, covering networks, websites, and systems, and I have create CTF Labs for students.
 
-___________
-Career Path
-
-I enjoy attending online seminars and conferences. I participated in the CDIS 2024 conference from May 19 for three days.
-I attended an online course with certification from King Abdulaziz University in Saudi Arabia.
-
 _________
 Education 
 Study at the College of Information Systems.
