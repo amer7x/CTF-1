@@ -25,8 +25,8 @@ Skills
 System Administration
 Penetration Testing
 Networking Attacks
-Perfect Use AI
-Red Team 
 Bug Bounty Hunter
+Perfect Use AI
+Red Team
 
 
